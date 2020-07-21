@@ -1,5 +1,5 @@
 # CODIGOS-DE-ERROR-PS3
--
+
 Aqui podras ver los multiples numeros de errores que pueden saltar en tu consola y quieres saber el porque, tan solo debes ver el numero de el error en tu consola y buscarlo aqui
 -
 Para hacerlo mas facil deberias usar el "Buscar en esta pagina" de tu navegador web
