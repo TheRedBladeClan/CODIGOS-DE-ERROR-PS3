@@ -1,15 +1,15 @@
 # CODIGOS-DE-ERROR-PS3
-
+-
 Aqui podras ver los multiples numeros de errores que pueden saltar en tu consola y quieres saber el porque, tan solo debes ver el numero de el error en tu consola y buscarlo aqui
-
+-
 Para hacerlo mas facil deberias usar el "Buscar en esta pagina" de tu navegador web
 Firefox y Chrome (ctrl + F).
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
 8013030: Error en la descarga de la actualización.
 
 80010001: Error en la capacidad de juego.
@@ -201,3 +201,55 @@ Firefox y Chrome (ctrl + F).
 8001050B: No se puede cargar un Demo mientras hay un Disco en la unidad lectora.
 
 80710102: Error DNS. No hay servidor DNS disponible.
+
+8001051C: los datos estan dañados
+
+80010019: Error dado en los juegos que requiren firmware 3.42, es aconsejable actualizar el dongle.
+
+8001002A: Error dado al hacer back-up. Se aconseja hacer (más) un rebug del sistema.
+
+8001002F: Error en el HDD interno de la PS3.
+
+8001003A: Error al conectarse a la red.
+
+80010092 - Mantenimiento de la Store.
+
+8001050F: Error épico, presuntamente causado por un fallo en el reloj interno de la consola. Básicamente afecta a todo el contenido online (PSN, juego online, jiuegos descargados e incluso demos). No afecta a todos los modelos, pero se recomienda no encender la consola hasta que Sony solucione el error.
+
+80022D86: Problema de saturacion en PSN, se suele solucionar en un periodo breve de tiempo.
+
+80022D88: Trofeos corruptos.
+
+80028ED6: Problema eventual de la señal WIFI (tuya o del proveedor). Desactiva la opcion de servidores multimedia.
+
+80028F14: Error dado por falta de actualización con el dongles y el manager.
+
+80029519: Error al comenzar. Problema en la carpeta de instalación debido a la mala ejecucion del jailbreak o actualizacion del dongle.
+
+80029530: Error en la aplicacion de la firma.
+
+80029563: Error dado al interrumpir una descarga en PSN.
+
+80029567: Datos dañados en alguna actualizacion. Se aconseja borrar dicha actualizacion
+
+80029941: El disco no se puede cargar; esto pasa principalmente al tratar de cargar un backup.
+
+80029945: Error en la película.
+
+8002A227: Cuenta PSN Baneada. Surgido en FEB 2011 con OFW 3.56.
+
+8002A231: Han baneado tu cuenta. Surgido en ENE 2011, antes no se habian producido.
+
+80040001: Los datos están dañados.
+
+8013030: Error en la descarga de la actualización.
+
+8013030F: Comprueba la página del Router, posiblemente este apagado el SSID Broadcasting.
+
+8013030F: No se ha encontrado un punto de acceso.
+
+80710007: Mala conexion o configuracion de la Red.
+
+80710A06: Problema con tu router/modem. Reincialo.
+
+F0455357: No se puede realizar la descarga en segundo plano; aún no se sabe exactamente a qué se debe esto. Sony recomienda resertear la configuración de Internet.
