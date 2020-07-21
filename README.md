@@ -4,7 +4,7 @@
 
 **Para hacerlo mas facil deberias usar el "Buscar en esta pagina" de tu navegador web**
 
-**En Firefox y Chrome se usa con ctrl + F.**
+**En Firefox y Chrome se usa con Ctrl + F.**
 
 
 
